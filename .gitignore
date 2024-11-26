@@ -1,0 +1,20 @@
+.env
+venv
+.venv
+.idea
+idea
+torage
+storage
+logs
+__pycache__/
+
+# dependencies
+#/node_modules
+#/.pnp
+#.pnp.js
+
+# testing
+#/coverage
+
+# production
+#/build
